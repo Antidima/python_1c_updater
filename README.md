@@ -10,7 +10,7 @@
 
 <имя сервера>,<имя базы>,<имя пользователя>,<пароль>
 
-например:
+например:                                                                                                                             
 SERVER-1C,MyHomeBUH,Buhgalter,1234qwer                                                                                    
 SERVER-1C,MyHomeZUP,Admin,123-qwe-asd
 
