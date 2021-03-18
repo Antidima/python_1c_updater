@@ -1,0 +1,4 @@
+SRV1,OrganizationZup,admin,1234qwer
+SRV1,OrganizationBuh,Buhgalter,123-qwe
+SRV2,FilialZup,UpdateUser,1qa2ws
+SRV2,FilialBuh,UpdateUser,1qa2ws
